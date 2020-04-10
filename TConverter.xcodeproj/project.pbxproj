@@ -283,7 +283,6 @@
 		DC231056242D358B00A9C022 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4QSC974X3E;
 				INFOPLIST_FILE = TConverter/Info.plist;
@@ -301,7 +300,6 @@
 		DC231057242D358B00A9C022 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4QSC974X3E;
 				INFOPLIST_FILE = TConverter/Info.plist;
